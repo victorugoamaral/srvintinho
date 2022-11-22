@@ -19,3 +19,13 @@
   <a href="https://www.youtube.com/canalvintinho" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
   <a href = "https://www.twitch.tv/canalvintinho"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </div>
+
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lilianhteixeira}/count.svg" /></p> 
+<br>
+</div> 
+<!-- badges, com trofeu --> 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=srvintinho&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p> 
