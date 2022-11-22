@@ -2,7 +2,7 @@
 
 - 🌍Paraiba, Campina Grande
 - 🎓Futuro Engenheiro da Computação
-- 🎥Editor de Video & Design Grafico
+- 🎥Designer & TI
 - 😄Hora vaga eu programo com frontend e backend
 <div>
   <a href="https://github.com/srvintinho">
